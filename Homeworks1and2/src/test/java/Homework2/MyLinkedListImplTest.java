@@ -7,7 +7,7 @@ import java.util.Arrays;
 import static org.junit.Assert.*;
 
 public class MyLinkedListImplTest {
-
+//
     @Test
     public void size() {
         MyLinkedList <Integer> myList = new MyLinkedListImpl<>();
